@@ -1,0 +1,13 @@
+.footer
+    {
+         background-color: black;
+         filter:alpha(opacity=60);
+
+
+    }
+.transp
+         {
+         background-color: white;
+         filter:alpha(opacity=60);
+
+         }
